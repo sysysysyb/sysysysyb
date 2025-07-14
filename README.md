@@ -2,7 +2,7 @@
   
   <div>
     <img
-      src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=4&text=🐳Seoyoung Baek🐋&fontSize=50&fontAlignY=38&descAlignY=58"
+      src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=4&text=🐳Seoyoung_Baek🐋&fontSize=50&fontAlignY=38&descAlignY=58"
       alt="Weaving codes and stories"
     />  
   </div>
