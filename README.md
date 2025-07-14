@@ -23,7 +23,7 @@
 
   <div>
     <a href="https://github.com/sysysysyb">
-      <img align="center" height="300" src="https://github-readme-stats.vercel.app/api?username=sysysysyb&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="seo_0's github stats" />
+      <img align="center" height="300" src="https://github-readme-stats.vercel.app/api?username=sysysysyb&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="sysysysyb's github stats" />
     </a>
   </div>
 
