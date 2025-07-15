@@ -2,46 +2,63 @@
   
   <div>
     <img
-      src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=4&text=🐳Seoyoung_Baek🐋&fontSize=50&fontAlignY=38&descAlignY=58"
+      src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=4&text=🐳SYB's%20GitHub🐋&fontSize=50&fontAlignY=38&descAlignY=58"
       alt="Weaving codes and stories"
     />  
   </div>
+
+  <h3>😎 About Me</h3>
+  <p>
+    Hi there! I’m <b>SeoYoung Baek</b>, 
+    <br />tackling <b>React</b> based projects as I grow into a web <b>front‑end developer</b>,
+    <br />and I’ve recently been exploring <b>TypeScript</b>.
+  </p>
+
+  <p>
+    I strive for <b>clean code</b> and <b>elegant design</b>,  
+    <br />and I’m always open to learning new technologies.
+  </p>
+
+  <p>Welcome! 🎉</p>
   
   <br />
 
-  <div>
-    <a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/718880218684969028/draw"
-        width="400"
-        alt="gitanimals"
-      />
-    </a>
-    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sysysysyb&utm_content=farm">
-      <img
-        src="https://render.gitanimals.org/farms/sysysysyb"
-        width="400"
-      />
-    </a>
-  </div>
+  <a href="https://www.gitanimals.org/">
+    <img
+      src="https://render.gitanimals.org/guilds/718880218684969028/draw"
+      width="600"
+      alt="gitanimals"
+    />
+  </a>
+
+  <br />
+
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sysysysyb&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/sysysysyb"
+      width="600"
+    />
+  </a>
 
   <br />
 
   <div>
     <a href="https://github.com/sysysysyb">
-      <img align="center" height="300" src="https://github-readme-stats.vercel.app/api?username=sysysysyb&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="sysysysyb's github stats" />
+      <img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=sysysysyb&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="sysysysyb's github stats" />
     </a>
   </div>
 
   <br />
 
+  <!-- 
   <div>
     <a href="https://github.com/sysysysyb">
-      <img align="center" height="180"
+      <img align="center" width="400"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sysysysyb&layout=compact&theme=holi&hide=C%23,ShaderLab,HLSL,Ren%27Py,Objective-c%2B%2B,Mathematica,CMake" 
        alt="Top Languages"/>
     </a>
-  </div>
+  </div> 
+  -->
 
   <br />
 
