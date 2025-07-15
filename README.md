@@ -23,23 +23,27 @@
   
   <br />
 
-  <a href="https://www.gitanimals.org/">
-    <img
-      src="https://render.gitanimals.org/guilds/718880218684969028/draw"
-      width="600"
-      alt="gitanimals"
-    />
-  </a>
+  <div>
+    <a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/718880218684969028/draw"
+        width="600"
+        alt="gitanimals"
+      />
+    </a>  
+  </div>
 
   <br />
 
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sysysysyb&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/sysysysyb"
-      width="600"
-    />
-  </a>
-
+  <div>
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sysysysyb&utm_content=farm">
+      <img
+        src="https://render.gitanimals.org/farms/sysysysyb"
+        width="600"
+      />
+    </a>
+  </div>
+  
   <br />
 
   <div>
