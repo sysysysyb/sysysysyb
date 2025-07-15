@@ -38,7 +38,7 @@
   <div>
     <a href="https://github.com/sysysysyb">
       <img align="center" height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sysysysyb&layout=compact&theme=holi&hide=C%23,ShaderLab,HLSL,Ren%27Py,Objective-c%2B%2B" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sysysysyb&layout=compact&theme=holi&hide=C%23,ShaderLab,HLSL,Ren%27Py,Objective-c%2B%2B,Mathematica,CMake" 
        alt="Top Languages"/>
     </a>
   </div>
