@@ -34,8 +34,6 @@
     <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
     <img src="https://img.shields.io/badge/MSW-FF6A33?style=flat-square&logo=mockserviceworker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Auto Layout-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Prototyping-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
   </div>
